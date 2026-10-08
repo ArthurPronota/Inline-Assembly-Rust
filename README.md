@@ -1,4 +1,4 @@
-# Inline Assembly в Rust: разбор кода с `rdtsc`
+# Inline Assembly в Rust: разбор кода с `rdtsc` (Read Time-Stamp Counter)
 
 ## Что такое inline assembly
 
